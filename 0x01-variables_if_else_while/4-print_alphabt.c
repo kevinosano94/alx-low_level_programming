@@ -5,7 +5,7 @@
  **/
 
 int main(void)
-
+{
 	char l_letter = 'a';
 
 	while (l_letter <= 'z')
